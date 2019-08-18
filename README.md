@@ -1,1 +1,2 @@
 # PokemonBattleSimulator
+A PokemonBattleSimulator that lets players choose their own pokemon out of a variety of 45 different pokemon and battle them. Game includes complex and sophisticated damage calculation algorithms to ensure the simulator is as close as possible to the actual Pokemon Games. The algorithm includes accuracy checks, SameTypeAttackBonuses(STAB), Type Advantages, Pokemon Stats, etc. See https://bulbapedia.bulbagarden.net/wiki/Damage for more in depth explanations.
